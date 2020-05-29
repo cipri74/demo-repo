@@ -1,10 +1,10 @@
 # Demo
 
-Some description.
+Some description
 
 ## SubHeader
 
-This is a test. :D
+This is a test :D
 
 ## Local Development
 
